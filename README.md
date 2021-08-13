@@ -1,11 +1,7 @@
 <img src="https://i.ibb.co/CzNSKhR/logo.png" alt="CSS 2020">
 
-Hola :) En este repositorio encontrarás toda la documentación que utilizamos en los cursos de CSS Grid y Diseño Web con CSS Grid y Flexbox. Adicional, también encontrarás algunos apuntes de las clases y los slides para que puedas estudiar con mucho más detalle (pero, son sólo para ti 🤫).
+Este Proyecto ha sido creado para poder transmitir valor a personas que quieren superarse a sí mismas aprendiendo desarrollo web, que están en búsqueda de un nuevo trabajo y que a lo largo de las carreras no han podido determinar sus áreas de enfoque, o a poblaciones vulnerables que a través de la tecnología puedan mejorar su calidad de vida, desarrollar su talento y creatividad, para todos ellos, Bienvenidos.
 
-> Para comenzar, solo queremos recordarte que este contenido es exclusivo de Platzi 🎉
-
-1. [Curso de CSS Grid](#curso-de-css-grid-)
-2. [Curso de Diseño Web con CSS Grid y Flexbox](#curso-de-diseño-web-con-css-grid-y-flexbox-)
 
 # Curso de CSS Grid 💚
 
