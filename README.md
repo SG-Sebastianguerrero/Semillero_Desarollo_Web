@@ -1,9 +1,9 @@
-<img src="https://i.ibb.co/hHJSjd7/Recurso-2-100.jpg" alt="CSS 2020">
+<img src="https://i.ibb.co/fQz5ZFP/Recurso-1-100.jpg" alt="CSS 2020">
 
 Este Proyecto ha sido creado para poder transmitir valor a personas que quieren superarse a sí mismas aprendiendo desarrollo web, que están en búsqueda de un nuevo trabajo y que a lo largo de las carreras no han podido determinar sus áreas de enfoque, o a poblaciones vulnerables que a través de la tecnología puedan mejorar su calidad de vida, desarrollar su talento y creatividad, para todos ellos, Bienvenidos.
 
 
-# Curso de CSS Grid 💚
+# Curso de Desarollo Web Frontend  
 
 1. [Tips para que lleves tus conocimientos de CSS a otro nivel + Quices](#1-tips-para-que-lleves-tus-conocimientos-de-CSS-a-otro-nivel--quices)
 2. [¿Cómo fue pensado CSS cuando se creó?](#2-cómo-fue-pensado-css-cuando-se-creó)
@@ -34,11 +34,11 @@ Este Proyecto ha sido creado para poder transmitir valor a personas que quieren 
 27. [Diseño responsivo sin media queries + Reto](#27-diseño-responsivo-sin-media-queries--reto)
 28. [¿Vendrá algo más para esta especificación?](#28-vendrá-algo-más-para-esta-especificación)
 
-## Apuntes de estudiantes 😍
+# Custo de desarollo web Backend 😍
 
 * Harrinson Quintero 👉🏼 [Sus notas](https://www.notion.so/Notas-Curso-de-CSS-Grid-Layout-aab64c07f7bf41ce88a93ac6178f69f5) y [su Twitter](https://twitter.com/Jhaqual)
 
-## 1. Tips para que lleves tus conocimientos de CSS a otro nivel + Quices
+## Quices 
 
 **Slides:** [Click aquí](https://www.canva.com/design/DAEQFfekgdU/0jutcPgG2ibsiVm_JON5yg/view?utm_content=DAEQFfekgdU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
