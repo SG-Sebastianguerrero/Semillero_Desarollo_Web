@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/fQz5ZFP/Recurso-1-100.jpg" alt="CSS 2020">
+<img src="https://i.ibb.co/G9hySnL/MAIN-DIAMONT-BACKGROUND-100.jpg" alt="DIAMONT DEVELOPERS BACKGROUND">
 
 Este Proyecto ha sido creado para poder transmitir valor a personas que quieren superarse a sí mismas aprendiendo desarrollo web, que están en búsqueda de un nuevo trabajo y que a lo largo de las carreras no han podido determinar sus áreas de enfoque, o a poblaciones vulnerables que a través de la tecnología puedan mejorar su calidad de vida, desarrollar su talento y creatividad, para todos ellos, Bienvenidos.
 
